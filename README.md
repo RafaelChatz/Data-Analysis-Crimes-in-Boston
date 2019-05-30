@@ -6,10 +6,15 @@ Crime incident reports are provided by Boston Police Department (BPD) to documen
 
 # Questions
 Using Data extraction methodologies and python libraries we showcase and answer the following questions and more:
+
 -When and where were the most crimes commited? (per year, month, day, district)
+
 -When and where the most shootings happened?
+
 -Do more crimes happend during the day or the night?
+
 -What is the most common crime during the day?
+
 etc.
 
 # Clustering

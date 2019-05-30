@@ -31,10 +31,13 @@ Dependencies:
 Below are some screenshots from the notebook, in case you want to satisfy your curiosity but are too lazy to open the notebook.
 
 ![](images/ju2.PNG)
-![](images/ju3.PNG)
 The last one agrees the hypothesis that crime is a profession. And that the professionals need rest during the weekend.
 
+![](images/ju3.PNG)
+
+
 Clustering with 3 clusters based only on location. You see that there are no distinct clusters and that crime is pretty normalized throughout the city.
+
 ![](images/ju1.PNG)
 
 Map when clustering by location for Warrant Arrests.

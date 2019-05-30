@@ -32,6 +32,7 @@ Below are some screenshots from the notebook, in case you want to satisfy your c
 
 ![](images/ju2.PNG)
 ![](images/ju3.PNG)
+The last one agrees the hypothesis that crime is a profession. And that the professionals need rest during the weekend.
 
 Clustering with 3 clusters based only on location. You see that there are no distinct clusters and that crime is pretty normalized throughout the city.
 ![](images/ju1.PNG)
